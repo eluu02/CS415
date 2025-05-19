@@ -1,0 +1,12 @@
+# Mutation Coverage Report
+This report presents the mutation coverage scores for all classes in the model package.
+
+| **Class**       | **Mutation Coverage** | **Mutants Killed / Total** | **Comments / Reflections**                                      |
+|-----------------|-----------------------|----------------------------|-----------------------------------------------------------------|
+| Company         | 83%                   | 67/81                      |  |
+| Project         | 88%                   | 30/34                      |  |
+| Worker          | 96%                   | 52/54                      |  |
+| Qualification   | 100%                  | 18/18                      |  |
+
+## Reflection
+
